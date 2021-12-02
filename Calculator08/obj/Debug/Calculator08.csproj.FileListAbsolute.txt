@@ -1,0 +1,11 @@
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.csprojAssemblyReference.cache
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.Calculator.resources
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.Hasil.resources
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.Properties.Resources.resources
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.GenerateResource.cache
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\bin\Debug\Calculator08.exe.config
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\bin\Debug\Calculator08.exe
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\bin\Debug\Calculator08.pdb
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.exe
+D:\Pemrograman Lanjut\SMT2\Tugas\Calculator08\Calculator08\obj\Debug\Calculator08.pdb
